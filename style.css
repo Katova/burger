@@ -1,0 +1,47 @@
+#outer{
+    border: 1px;
+    background-color:rgb(216, 202, 202);
+    width: 320px; height: 300px;
+    margin-left: 20px;
+   
+}
+#outer2{
+    margin-left: 20px;
+    
+    padding: 5px;
+    border: 1px;
+   border-radius: 5px;
+    width: 380px; height: 340px;
+    border-bottom-right-radius: 30px;
+    
+}
+#bot{
+    background: #1e0c90;
+    color: white;
+    border-radius: 5px;
+    text-align: left;
+    width: 125px;
+    padding: 5px;
+    
+}
+h1{
+    color: #1e0c90;
+    font-family: Calibri;
+    
+}
+
+#only{
+    color: red;
+    font-size: 50px;
+    font-weight: 400;
+}
+#R99{
+    color: red;
+    font-size: 50px;
+    font-weight: 400;
+}
+#get{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
